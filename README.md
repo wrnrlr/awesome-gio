@@ -1,4 +1,4 @@
-# awesome-gio
+# Awesome Gio
 > Gio related links
 
 # Gio Core
