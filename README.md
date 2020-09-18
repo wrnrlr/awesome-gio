@@ -10,6 +10,7 @@
 * [Gio Canvas](https://github.com/ajstarks/giocanvas)
 * [Compute](https://github.com/vron/compute), shaders on the CPU
 * [IconVG](https://github.com/reactivego/ivg)
+* [Polyline](https://github.com/wrnrlr/polyline), draw polylines
 
 ## Software build with Gio
 
