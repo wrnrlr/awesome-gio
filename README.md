@@ -8,7 +8,7 @@
 ## Community Libraries
 
 * [Gio Canvas](https://github.com/ajstarks/giocanvas)
-* [Compute](https://github.com/vron/compute), shaders on the CPU
+* [Compute](https://github.com/vron/compute), shaders on the GPU
 * [IconVG](https://github.com/reactivego/ivg)
 * [Polyline](https://github.com/wrnrlr/polyline), draw polylines
 
