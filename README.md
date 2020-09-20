@@ -12,6 +12,7 @@
 * [IconVG](https://github.com/reactivego/ivg)
 * [Materials](https://git.sr.ht/~whereswaldon/materials), Material widgets
 * [Polyline](https://github.com/wrnrlr/polyline), draw polylines
+* [Material design icons](golang.org/x/exp/shiny/materialdesign/icons), Material design icons
 
 ## Software build with Gio
 
