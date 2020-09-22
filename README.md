@@ -28,8 +28,7 @@
 * [Gio Extras](https://sr.ht/~whereswaldon/gio-extras/)
 
 ## General GPU
-[Raph GPU Resource](https://raphlinus.github.io/gpu/2020/02/12/gpu-resources.html)
-[The stack monoid](https://raphlinus.github.io/gpu/2020/09/05/stack-monoid.html)
-[Towards GPGPU JSON parsing](https://raphlinus.github.io/personal/2018/05/10/toward-gpu-json-parsing.html)
-[Introduction to Compute Shaders](https://www.youtube.com/watch?v=V-yqiLyU27U)
-
+* [Raph GPU Resource](https://raphlinus.github.io/gpu/2020/02/12/gpu-resources.html)
+* [The stack monoid](https://raphlinus.github.io/gpu/2020/09/05/stack-monoid.html)
+* [Towards GPGPU JSON parsing](https://raphlinus.github.io/personal/2018/05/10/toward-gpu-json-parsing.html)
+* [Introduction to Compute Shaders](https://www.youtube.com/watch?v=V-yqiLyU27U)
