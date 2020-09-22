@@ -1,11 +1,11 @@
 # Awesome Gio
 > Gio related links
 
-# Gio Core
+## Gio Core
 * [Gio Website](https://gioui.org/)
 * [Community call recordings](https://www.youtube.com/channel/UCzuKUnKK5gAFJKNyA1imIHw)
 
-## Community Libraries
+### Community Libraries
 
 * [Gio Canvas](https://github.com/ajstarks/giocanvas)
 * [Compute](https://github.com/vron/compute), shaders on the GPU
@@ -15,9 +15,21 @@
 * [Material design icons](golang.org/x/exp/shiny/materialdesign/icons), Material design icons
 * [Colorpicker](https://git.sr.ht/~whereswaldon/colorpicker), input for colors
 
-## Software build with Gio
+### Software build with Gio
 
 * [Scatter](https://scatter.im/), an implementation of the Signal protocol over email.
 * [godcr](https://github.com/planetdecred/godcr), a cross-platform desktop wallet for the Decred cryptocurrency.
 * [sprig](https://git.sr.ht/~whereswaldon/sprig), a client for the Arbor chat system.
 * [Arbor](https://arbor.chat)
+
+### More gio Links
+
+* [Gio Extras Demos](https://whereswaldon.github.io/gio-extras-index/)
+* [Gio Extras](https://sr.ht/~whereswaldon/gio-extras/)
+
+## General GPU
+[Raph GPU Resource](https://raphlinus.github.io/gpu/2020/02/12/gpu-resources.html)
+[The stack monoid](https://raphlinus.github.io/gpu/2020/09/05/stack-monoid.html)
+[Towards GPGPU JSON parsing](https://raphlinus.github.io/personal/2018/05/10/toward-gpu-json-parsing.html)
+[Introduction to Compute Shaders](https://www.youtube.com/watch?v=V-yqiLyU27U)
+
