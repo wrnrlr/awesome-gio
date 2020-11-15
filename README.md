@@ -14,7 +14,10 @@
 * [Polyline](https://github.com/wrnrlr/polyline), draw polylines
 * [Material design icons](golang.org/x/exp/shiny/materialdesign/icons), Material design icons
 * [Colorpicker](https://git.sr.ht/~whereswaldon/colorpicker), input for colors
-* [Hyperlink](https://github.com/inkeliz/giohyperlink)
+* [Hyperlink](https://github.com/inkeliz/giohyperlink), open hyperlinks
+* [Webview](https://github.com/inkeliz/gowebview), web viewer
+* [P5](https://github.com/go-p5/p5), Processing like API to draw shapes
+* 
 
 ### Software build with Gio
 
@@ -22,6 +25,7 @@
 * [godcr](https://github.com/planetdecred/godcr), a cross-platform desktop wallet for the Decred cryptocurrency.
 * [sprig](https://git.sr.ht/~whereswaldon/sprig), a client for the Arbor chat system.
 * [Arbor](https://arbor.chat)
+* [Kanban](https://git.sr.ht/~jackmordaunt/kanban)
 
 ### More gio Links
 
