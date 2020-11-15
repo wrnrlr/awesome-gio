@@ -17,7 +17,6 @@
 * [Hyperlink](https://github.com/inkeliz/giohyperlink), open hyperlinks
 * [Webview](https://github.com/inkeliz/gowebview), web viewer
 * [P5](https://github.com/go-p5/p5), Processing like API to draw shapes
-* 
 
 ### Software build with Gio
 
