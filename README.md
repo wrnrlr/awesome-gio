@@ -25,6 +25,7 @@
 * [sprig](https://git.sr.ht/~whereswaldon/sprig), a client for the Arbor chat system.
 * [Arbor](https://arbor.chat)
 * [Kanban](https://git.sr.ht/~jackmordaunt/kanban)
+* [Frost](https://git.sr.ht/~f4814n/frost), Wannabe matrix client
 
 ### More gio Links
 
