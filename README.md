@@ -26,6 +26,11 @@
 * [Arbor](https://arbor.chat)
 * [Kanban](https://git.sr.ht/~jackmordaunt/kanban)
 * [Frost](https://git.sr.ht/~f4814n/frost), Wannabe matrix client
+* [Iconx](https://git.sr.ht/~pierrec/giox/tree/main/item/cmd/iconx), Browser for Material icons
+
+### Articles
+
+* [Novel State Management in Gio](https://jackmordaunt.srht.site/post/novel-state-management-in-gio/), Simplify state management by respecting the frame lifecycle: load data at the start of the frame and save data at the end of the frame.
 
 ### More gio Links
 
