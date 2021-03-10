@@ -17,6 +17,7 @@
 * [Hyperlink](https://github.com/inkeliz/giohyperlink), open hyperlinks
 * [Webview](https://github.com/inkeliz/gowebview), web viewer
 * [P5](https://github.com/go-p5/p5), Processing like API to draw shapes
+* [nucular](https://github.com/aarzilli/nucular), alternative immediate-mode GUI framework in Go; supports Gio, shiny, and metal as graphical backends. Originally a source-port of [nuklear](https://github.com/vurtun/nuklear).
 
 ### Software build with Gio
 
@@ -27,6 +28,7 @@
 * [Kanban](https://git.sr.ht/~jackmordaunt/kanban)
 * [Frost](https://git.sr.ht/~f4814n/frost), Wannabe matrix client
 * [Iconx](https://git.sr.ht/~pierrec/giox/tree/main/item/cmd/iconx), Browser for Material icons
+* [gdlv](https://github.com/aarzilli/gdlv), GUI front-end for the [Delve](https://github.com/go-delve/delve) debugger, supports Gio as a backend for [nucular](https://github.com/aarzilli/nucular).
 
 ### Articles
 
