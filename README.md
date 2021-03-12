@@ -8,7 +8,7 @@
 ### Community Libraries
 
 * [Gio Canvas](https://github.com/ajstarks/giocanvas)
-* [Compute](https://github.com/vron/compute), shaders on the GPU
+* [Compute](https://github.com/vron/compute), compute shaders on the CPU
 * [IconVG](https://github.com/reactivego/ivg)
 * [Materials](https://git.sr.ht/~whereswaldon/materials), Material widgets
 * [Polyline](https://github.com/wrnrlr/polyline), draw polylines
@@ -27,7 +27,7 @@
 * [Kanban](https://git.sr.ht/~jackmordaunt/kanban)
 * [Frost](https://git.sr.ht/~f4814n/frost), Wannabe matrix client
 * [Iconx](https://git.sr.ht/~pierrec/giox/tree/main/item/cmd/iconx), Browser for Material icons
-* [sjqm](https://github.com/Aquarian-Age/sjqm), Chinese prediction technology similar astrology
+* [sjqm](https://github.com/Aquarian-Age/sjqm), Chinese astrology calendar
 
 ### Articles
 
