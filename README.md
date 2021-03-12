@@ -30,6 +30,7 @@
 * [Iconx](https://git.sr.ht/~pierrec/giox/tree/main/item/cmd/iconx), Browser for Material icons
 * [sjqm](https://github.com/Aquarian-Age/sjqm), Chinese astrology calendar
 * [gdlv](https://github.com/aarzilli/gdlv), GUI front-end for the [Delve](https://github.com/go-delve/delve) debugger, supports Gio as a backend for [nucular](https://github.com/aarzilli/nucular).
+* [Diagram](https://github.com/egonelbre/expgio/tree/master/diagram), Diagram drawing
 * [Protonet](https://play.google.com/store/apps/details?id=live.protonet), A P2P chat app for Android
 
 ### Articles
