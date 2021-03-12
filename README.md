@@ -18,7 +18,6 @@
 * [Webview](https://github.com/inkeliz/gowebview), web viewer
 * [P5](https://github.com/go-p5/p5), Processing like API to draw shapes
 * [nucular](https://github.com/aarzilli/nucular), alternative immediate-mode GUI framework in Go; supports Gio, shiny, and metal as graphical backends. Originally a source-port of [nuklear](https://github.com/vurtun/nuklear).
-* [Protonet](https://play.google.com/store/apps/details?id=live.protonet), A P2P chat app for Android
 
 ### Software build with Gio
 
@@ -31,6 +30,7 @@
 * [Iconx](https://git.sr.ht/~pierrec/giox/tree/main/item/cmd/iconx), Browser for Material icons
 * [sjqm](https://github.com/Aquarian-Age/sjqm), Chinese astrology calendar
 * [gdlv](https://github.com/aarzilli/gdlv), GUI front-end for the [Delve](https://github.com/go-delve/delve) debugger, supports Gio as a backend for [nucular](https://github.com/aarzilli/nucular).
+* [Protonet](https://play.google.com/store/apps/details?id=live.protonet), A P2P chat app for Android
 
 ### Articles
 
