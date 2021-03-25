@@ -31,6 +31,7 @@
 * [sjqm](https://github.com/Aquarian-Age/sjqm), Chinese astrology calendar
 * [gdlv](https://github.com/aarzilli/gdlv), GUI front-end for the [Delve](https://github.com/go-delve/delve) debugger, supports Gio as a backend for [nucular](https://github.com/aarzilli/nucular).
 * [Diagram](https://github.com/egonelbre/expgio/tree/master/diagram), Diagram drawing
+* [Blocks](https://github.com/pierrec/games), Tetris clone
 * [Protonet](https://play.google.com/store/apps/details?id=live.protonet), A P2P chat app for Android
 
 ### Articles
