@@ -33,6 +33,7 @@
 * [Diagram](https://github.com/egonelbre/expgio/tree/master/diagram), Diagram drawing
 * [Blocks](https://github.com/pierrec/games), Tetris clone
 * [Protonet](https://play.google.com/store/apps/details?id=live.protonet), A P2P chat app for Android
+* [photon](https://gitlab.com/microo8/photon) Fast RSS reader as light as a photon
 
 ### Articles
 
