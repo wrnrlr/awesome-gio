@@ -8,7 +8,6 @@
 * [Gio Unstable/Experimental Libraries](https://git.sr.ht/~whereswaldon/gio-x), includes:
     * more material design components
     * radial, grid, and table layouts
-    * scroll bars
     * haptic feedback
     * notifications
     * event management utilities
