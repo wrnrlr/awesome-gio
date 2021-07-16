@@ -47,6 +47,7 @@
 ### Articles
 
 * [Novel State Management in Gio](https://jackmordaunt.srht.site/post/novel-state-management-in-gio/), Simplify state management by respecting the frame lifecycle: load data at the start of the frame and save data at the end of the frame.
+* [GIO iOS app install tutorial](https://github.com/chmike/gioiostutorial), Tutorial for building Gio applications for iOS and trying them on your device.
 
 ## General GPU
 * [Raph GPU Resource](https://raphlinus.github.io/gpu/2020/02/12/gpu-resources.html)
